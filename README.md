@@ -1,6 +1,6 @@
 # AI_education2019
 
-![main](./image/AI.PNG)
+![main](./image/AI.jpg)
 
 ## 상세 커리큘럼
 
